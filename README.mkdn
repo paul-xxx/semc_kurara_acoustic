@@ -9,7 +9,7 @@ No use on NOKIA
 ---------------
 	If you add here:
 	You phone can be bricked (Bootloop)
-	Or display can't start
+	Display no turn on
 	GPS Error
 	You help only JAF or Phoenix
 
