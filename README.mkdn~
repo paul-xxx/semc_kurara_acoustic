@@ -1,18 +1,19 @@
-SEMC Acoustic driver
---------------------
+Acoustic driver
+==============
+
 For using without C2Z patch on SE Vivaz/Pro, Satio
---------------------------------------------------
+-------------------------------------------------
 
 WARNING
 =======
+
 No use on NOKIA
 ---------------
+
 	If you add here:
-	You phone can be bricked (Bootloop)
+	You phone been bricked (Bootloop)
 	Or display can't start
-	GPS Error
 	You help only JAF or Phoenix
 
 paul-xxx@XDA
-============
-
+===========
